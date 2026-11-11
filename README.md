@@ -20,14 +20,8 @@ An end-to-end retail customer analytics project using **SQL Server, Python (Pand
 IKEA-Customer-Analytics/
 ├── README.md
 ├── .gitignore
-├── sql/
-│   ├── 01_database_setup.sql
-│   ├── 02_combine_and_convert_data.sql
-│   ├── 03_data_quality_checks.sql
-│   └── 04_create_cleaned_table.sql
-├── python/
-│   ├── load_and_check_data.py
-│   └── requirements.txt
+├── sql
+├── python
 └── powerbi/
     └── screenshots/
         ├── 01_home_page.png
@@ -39,7 +33,7 @@ IKEA-Customer-Analytics/
 
 ## Tools used
 
-- **SQL Server / T-SQL** — database setup, combining tables, type conversion, data-quality checks, and deduplication.
+- **SQL Server**  — database setup, combining tables, type conversion, data-quality checks, and deduplication.
 - **Python** — Pandas for CSV loading, type conversion, and validation.
 - **Power BI** — interactive business overview and RFM analysis pages.
 
