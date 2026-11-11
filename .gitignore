@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data files (large retail dataset is kept outside GitHub)
+*.csv
+*.xlsx
+*.parquet
+
+# Power BI temporary/backup files
+*.pbix.autorecover
+*.pbit.autorecover
+~$*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
