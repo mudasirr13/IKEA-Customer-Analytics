@@ -82,15 +82,15 @@ The dashboard contains:
 
 ### Dashboard previews
 
-![IKEA Customer Analytics home page](powerbi/screenshots/01_home_page.png)
 
-![Business overview - revenue](powerbi/screenshots/02_business_overview_revenue.png)
 
-![Business overview - customers](powerbi/screenshots/03_business_overview_customers.png)
+![Business overview - revenue](powerbi/02_business_overview_revenue.png)
 
-![RFM analysis by segment](powerbi/screenshots/04_rfm_segment_analysis.png)
+![Business overview - customers](powerbi/03_business_overview_customers.png)
 
-![RFM analysis by country](powerbi/screenshots/05_rfm_country_analysis.png)
+![RFM analysis by segment](powerbi/04_rfm_segment_analysis.png)
+
+![RFM analysis by country](powerbi/05_rfm_country_analysis.png)
 
 ## Power BI file
 
